@@ -1,7 +1,7 @@
 # Matt Eden
 *Software Developer and Computer Enthusiast*
 
-![Matteas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=matteas-eden)
+![Matteas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=matteas-eden&hide_rank=true&hide_border=true&hide=["contribs"])
 
 ⭐️ From [Matt Eden](https://github.com/Matteas-Eden)
 
