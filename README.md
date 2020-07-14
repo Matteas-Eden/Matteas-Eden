@@ -13,6 +13,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=energize" />
 </a>
 
-<a href="https://github.com/Matteas-Eden/energize">
+<a href="https://github.com/Matteas-Eden/dice-roller">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=dice-roller" />
+</a>
+
+<a href="https://github.com/Matteas-Eden/lethal-suicide-linux">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=lethal-suicide-linux" />
 </a>
