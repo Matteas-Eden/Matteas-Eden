@@ -19,8 +19,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=FlappyBirdVHDL" />
 </a>
 
-<a href="https://github.com/Matteas-Eden/bakugan-rerolled">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=bakugan-rerolled" />
+<a href="https://github.com/Matteas-Eden/outerstellar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=outerstellar" />
 </a>
 
 ## Linux
@@ -37,4 +37,12 @@
 
 <a href="https://github.com/Matteas-Eden/react-template">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=react-template" />
+</a>
+
+<a href="https://github.com/Matteas-Eden/doto">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=doto" />
+</a>
+
+<a href="https://github.com/Matteas-Eden/feedr">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=feedr" />
 </a>
