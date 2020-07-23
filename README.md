@@ -21,6 +21,14 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=outerstellar" />
 </a>
 
+<a href="https://github.com/Matteas-Eden/kalah">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=kalah" />
+</a>
+
+<a href="https://github.com/Matteas-Eden/bakugan-rerolled">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=bakugan-rerolled" />
+</a>
+
 ## Linux
 
 <a href="https://github.com/Matteas-Eden/lethal-suicide-linux">
