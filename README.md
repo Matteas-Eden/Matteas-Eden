@@ -1,7 +1,7 @@
 # Matt Eden
 *Software Developer and Computer Enthusiast*
 
-![Matt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matteas-eden&show_icons=true&hide_rank=true&hide_border=true&hide=["contribs"])
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matteas-eden&count_private=true&include_all_commits=true&show_icons=true&hide_rank=true&hide_border=true&hide=["contribs"]) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteas-eden&layout=compact)
 
 ## Games
 
@@ -17,16 +17,16 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=FlappyBirdVHDL" />
 </a>
 
+<a href="https://github.com/Matteas-Eden/bakugan-rerolled">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=bakugan-rerolled" />
+</a>
+
 <a href="https://github.com/Matteas-Eden/outerstellar">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=outerstellar" />
 </a>
 
 <a href="https://github.com/Matteas-Eden/kalah">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=kalah" />
-</a>
-
-<a href="https://github.com/Matteas-Eden/bakugan-rerolled">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=bakugan-rerolled" />
 </a>
 
 ## Linux
