@@ -14,6 +14,8 @@
 
 [<img align="left" alt="React" width="26px" src="https://miro.medium.com/max/500/1*cPh7ujRIfcHAy4kW2ADGOw.png" />](https://www.google.com/search?&q=React)
 [<img align="left" alt="Redux" width="26px" src="https://www.logolynx.com/images/logolynx/06/068f98c0f3165a325227a8f474a78c06.png" />](https://www.google.com/search?&q=Redux)
+[<img align="left" alt="Material UI" width="26px" src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" />](https://www.google.com/search?&q=Material%20UI)
+[<img align="left" alt="Heroku" width="26px" src="https://cdn.worldvectorlogo.com/logos/heroku.svg" />](https://www.google.com/search?&q=Heroku)
 [<img align="left" alt="Git" width="26px" src="https://www.logolynx.com/images/logolynx/5c/5c06821230661c9ff816be8ab94cd4b5.png" />](https://www.google.com/search?&q=Git)
 [<img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" />](https://www.google.com/search?&q=Docker)
 
