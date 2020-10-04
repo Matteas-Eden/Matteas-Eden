@@ -1,5 +1,5 @@
 # Matt Eden
-*Software Developer and Computer Enthusiast*
+*Software Developer, Computer Engineer and Linux Enthusiast*
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matteas-eden&count_private=true&include_all_commits=true&show_icons=true&hide_rank=true&hide_border=true&hide=["contribs"]) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteas-eden&layout=compact)
 
@@ -23,7 +23,6 @@
 [<img align="left" alt="Ubuntu" width="26px" src="https://www.logolynx.com/images/logolynx/57/5762d8a6f2ae3ae8c9157a9f23dd4f18.png" />](https://www.google.com/search?&q=Ubuntu)
 [<img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />](https://www.google.com/search?&q=Linux)
 [<img align="left" alt="Windows" width="26px" src="https://image.flaticon.com/icons/svg/882/882702.svg" />](https://www.google.com/search?&q=Windows)
-</br>
 
 ## Games
 
