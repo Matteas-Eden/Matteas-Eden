@@ -6,28 +6,17 @@
 ## Games
 
 <a href="https://github.com/Matteas-Eden/roll-for-reaction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=roll-for-reaction" />
+  <img width="70%" src="assets/RollForReactionTitle.png" />
 </a>
 
 <a href="https://github.com/Matteas-Eden/energize">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=energize" />
-</a>
-
-<a href="https://github.com/Matteas-Eden/FlappyBirdVHDL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=FlappyBirdVHDL" />
-</a>
-
-<a href="https://github.com/Matteas-Eden/bakugan-rerolled">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=bakugan-rerolled" />
+  <img width="70%" src="assets/EnergizeTitle.png" />
 </a>
 
 <a href="https://github.com/Matteas-Eden/outerstellar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=outerstellar" />
+  <img width="70%" src="assets/OuterstellarTitle.png" />
 </a>
 
-<a href="https://github.com/Matteas-Eden/kalah">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=kalah" />
-</a>
 
 ## Webdev
 
