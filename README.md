@@ -29,12 +29,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=kalah" />
 </a>
 
-## Linux
-
-<a href="https://github.com/Matteas-Eden/lethal-suicide-linux">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=lethal-suicide-linux" />
-</a>
-
 ## Webdev
 
 <a href="https://github.com/Matteas-Eden/dice-roller">
