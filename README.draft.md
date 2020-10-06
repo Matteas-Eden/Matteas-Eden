@@ -22,8 +22,12 @@
 </a>
 
 <p align="center">
-  <img width="41%" src="assets/EnergizeTitle.png" />
-  <img width="50%" src="assets/OuterstellarTitle.png" />
+  <a href="https://github.com/Matteas-Eden/energize">
+    <img width="41%" src="assets/EnergizeTitle.png" />
+  </a>
+  <a href="https://github.com/Matteas-Eden/outerstellar">
+    <img width="50%" src="assets/OuterstellarTitle.png" />
+  </a>
 </p>
 
 ## Webdev
