@@ -21,14 +21,8 @@
   <img width="100%" src="assets/RollForReactionTitle.png" />
 </a>
 
-<a href="https://github.com/Matteas-Eden/energize">
-  <img width="100%" src="assets/EnergizeTitle.png" />
-</a>
-
-<a href="https://github.com/Matteas-Eden/outerstellar">
-  <img width="100%" src="assets/OuterstellarTitle.png" />
-</a>
-
+[<img align="left" width="50%" src="assets/EnergizeTitle.png" />](https://github.com/Matteas-Eden/energize) [<img align="right" width="50%" src="assets/OuterstellarTitle.png" />](https://github.com/Matteas-Eden/outerstellar)
+<br />
 
 ## Webdev
 
