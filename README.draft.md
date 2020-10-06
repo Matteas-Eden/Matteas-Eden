@@ -1,9 +1,19 @@
 # Matt Eden
 *Software Developer, Computer Engineer and Linux Enthusiast*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matteas-eden&count_private=true&include_all_commits=true&show_icons=true&hide_rank=true&hide_border=true&hide=["contribs"]) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteas-eden&layout=compact)
+[<img alt="C" width="5%" src="https://devicon.dev/devicon.git/icons/c/c-original.svg" />](https://www.google.com/search?&q=C)
+[<img alt="C++" width="5%" src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" />](https://www.google.com/search?&q=C++)
+[<img alt="Java" width="5%" src="https://devicon.dev/devicon.git/icons/java/java-original.svg" />](https://www.google.com/search?&q=Java)
+[<img alt="Python" width="5%" src="https://devicon.dev/devicon.git/icons/python/python-original.svg" />](https://www.google.com/search?&q=Python)
+[<img alt="Javascript" width="5%" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" />](https://www.google.com/search?&q=Javascript)
+[<img alt="MySQL" width="5%" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" />](https://www.google.com/search?&q=MySQL)
+[<img alt="Git" width="5%" src="https://devicon.dev/devicon.git/icons/git/git-original.svg" />](https://www.google.com/search?&q=Git)
+[<img alt="Arch Linux" width="5%" src="http://simpleicons.org/icons/archlinux.svg" />](https://www.google.com/search?&q=Arch%20Linux)
+[<img alt="Docker" width="5%" src="https://devicon.dev/devicon.git/icons/docker/docker-plain-wordmark.svg" />](https://www.google.com/search?&q=Docker)
+[<img alt="React" width="5%" src="https://devicon.dev/devicon.git/icons/react/react-original.svg" />](https://www.google.com/search?&q=React)
+[<img alt="Redux" width="5%" src="https://devicon.dev/devicon.git/icons/redux/redux-original.svg" />](https://www.google.com/search?&q=Redux)
+[<img alt="Heroku" width="5%" src="https://devicon.dev/devicon.git/icons/heroku/heroku-plain.svg" />](https://www.google.com/search?&q=Heroku)
 
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
 ## Games
 
