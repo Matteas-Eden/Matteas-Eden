@@ -14,15 +14,16 @@
 [<img alt="Redux" width="5%" src="https://devicon.dev/devicon.git/icons/redux/redux-original.svg" />](https://www.google.com/search?&q=Redux)
 [<img alt="Heroku" width="5%" src="https://devicon.dev/devicon.git/icons/heroku/heroku-plain.svg" />](https://www.google.com/search?&q=Heroku)
 
-
 ## Games
 
 <a href="https://github.com/Matteas-Eden/roll-for-reaction">
   <img width="100%" src="assets/RollForReactionTitle.png" />
 </a>
 
-[<img align="left" width="50%" src="assets/EnergizeTitle.png" />](https://github.com/Matteas-Eden/energize) [<img align="right" width="50%" src="assets/OuterstellarTitle.png" />](https://github.com/Matteas-Eden/outerstellar)
-<br />
+<p align="center">
+  <img width="41%" src="assets/EnergizeTitle.png" />
+  <img width="50%" src="assets/OuterstellarTitle.png" />
+</p>
 
 ## Webdev
 
