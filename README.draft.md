@@ -28,6 +28,6 @@
     <img width="44%" src="assets/EnergizeTitle.png" />
   </a>
   <a href="https://github.com/Matteas-Eden/outerstellar">
-    <img width="54%" src="assets/OuterstellarTitle.png" />
+    <img width="53%" src="assets/OuterstellarTitle.png" />
   </a>
 </p>
