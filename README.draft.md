@@ -8,11 +8,12 @@
 [<img alt="Javascript" width="5%" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" />](https://www.google.com/search?&q=Javascript)
 [<img alt="MySQL" width="5%" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" />](https://www.google.com/search?&q=MySQL)
 [<img alt="Git" width="5%" src="https://devicon.dev/devicon.git/icons/git/git-original.svg" />](https://www.google.com/search?&q=Git)
-[<img alt="Arch Linux" width="5%" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" />](https://www.google.com/search?&q=Arch%20Linux)
 [<img alt="Docker" width="5%" src="https://devicon.dev/devicon.git/icons/docker/docker-plain-wordmark.svg" />](https://www.google.com/search?&q=Docker)
 [<img alt="React" width="5%" src="https://devicon.dev/devicon.git/icons/react/react-original.svg" />](https://www.google.com/search?&q=React)
 [<img alt="Redux" width="5%" src="https://devicon.dev/devicon.git/icons/redux/redux-original.svg" />](https://www.google.com/search?&q=Redux)
 [<img alt="Heroku" width="5%" src="https://devicon.dev/devicon.git/icons/heroku/heroku-plain.svg" />](https://www.google.com/search?&q=Heroku)
+[<img alt="Arch Linux" width="5%" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" />](https://www.google.com/search?&q=Arch%20Linux)
+[<img alt="Ubuntu" width="5%" src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" />](https://www.google.com/search?&q=Ubuntu)
 
 ## Games
 
