@@ -23,27 +23,9 @@
 
 <p align="center">
   <a href="https://github.com/Matteas-Eden/energize">
-    <img width="41%" src="assets/EnergizeTitle.png" />
+    <img width="44%" src="assets/EnergizeTitle.png" />
   </a>
   <a href="https://github.com/Matteas-Eden/outerstellar">
-    <img width="50%" src="assets/OuterstellarTitle.png" />
+    <img width="54%" src="assets/OuterstellarTitle.png" />
   </a>
 </p>
-
-## Webdev
-
-<a href="https://github.com/Matteas-Eden/dice-roller">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=dice-roller" />
-</a>
-
-<a href="https://github.com/Matteas-Eden/react-template">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=react-template" />
-</a>
-
-<a href="https://github.com/Matteas-Eden/doto">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=doto" />
-</a>
-
-<a href="https://github.com/Matteas-Eden/feedr">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=feedr" />
-</a>
