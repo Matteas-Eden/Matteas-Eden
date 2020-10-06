@@ -14,6 +14,8 @@
 [<img alt="Heroku" width="5%" src="https://devicon.dev/devicon.git/icons/heroku/heroku-plain.svg" />](https://www.google.com/search?&q=Heroku)
 [<img alt="Arch Linux" width="5%" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" />](https://www.google.com/search?&q=Arch%20Linux)
 [<img alt="Ubuntu" width="5%" src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" />](https://www.google.com/search?&q=Ubuntu)
+[<img alt="Yarn" width="5%" src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" />](https://www.google.com/search?&q=Yarn)
+[<img alt="Vim" width="5%" src="https://devicon.dev/devicon.git/icons/vim/vim-plain.svg" />](https://www.google.com/search?&q=Vim)
 
 ## Games
 
