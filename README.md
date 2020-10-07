@@ -1,4 +1,4 @@
-# Matt Eden
+# Matt Eden / エデン・マット
 *Software Developer, Computer Engineer and Linux Enthusiast*
 
 [<img alt="C" width="5%" src="https://devicon.dev/devicon.git/icons/c/c-original.svg" />](https://www.google.com/search?&q=C)
@@ -14,8 +14,10 @@
 [<img alt="Heroku" width="5%" src="https://devicon.dev/devicon.git/icons/heroku/heroku-plain.svg" />](https://www.google.com/search?&q=Heroku)
 [<img alt="Arch Linux" width="5%" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" />](https://www.google.com/search?&q=Arch%20Linux)
 [<img alt="Ubuntu" width="5%" src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" />](https://www.google.com/search?&q=Ubuntu)
+[<img alt="Yarn" width="5%" src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" />](https://www.google.com/search?&q=Yarn)
+[<img alt="Vim" width="5%" src="https://devicon.dev/devicon.git/icons/vim/vim-plain.svg" />](https://www.google.com/search?&q=Vim)
 
-## Games
+## Games / ゲーム
 
 <a href="https://github.com/Matteas-Eden/roll-for-reaction">
   <img width="100%" src="assets/RollForReactionTitle.png" />
@@ -23,27 +25,9 @@
 
 <p align="center">
   <a href="https://github.com/Matteas-Eden/energize">
-    <img width="41%" src="assets/EnergizeTitle.png" />
+    <img width="44%" src="assets/EnergizeTitle.png" />
   </a>
   <a href="https://github.com/Matteas-Eden/outerstellar">
-    <img width="50%" src="assets/OuterstellarTitle.png" />
+    <img width="53%" src="assets/OuterstellarTitle.png" />
   </a>
 </p>
-
-## Webdev
-
-<a href="https://github.com/Matteas-Eden/dice-roller">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=dice-roller" />
-</a>
-
-<a href="https://github.com/Matteas-Eden/react-template">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=react-template" />
-</a>
-
-<a href="https://github.com/Matteas-Eden/doto">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=doto" />
-</a>
-
-<a href="https://github.com/Matteas-Eden/feedr">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matteas-eden&repo=feedr" />
-</a>
