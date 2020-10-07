@@ -32,3 +32,9 @@
     <img width="53%" src="assets/OuterstellarTitle.png" />
   </a>
 </p>
+
+## Stats / 統計
+
+![profile-details](assets/0-profile-details.svg)
+![repo-languages](assets/1-repos-per-language.svg)
+![misc-stats](assets/2-stats.svg)
