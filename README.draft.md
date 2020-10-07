@@ -37,7 +37,7 @@
 
 <img width="100%" src="assets/0-profile-details.svg" />
 <p align="center">
-  <img width="35%" src="assets/1-repos-per-language.svg" />
-  <img width="25%" src="assets/2-most-commit-language.svg" />
-  <img width="25%" src="assets/3-stats.svg" />
+  <img width="36%" src="assets/1-repos-per-language.svg" />
+  <img width="36%" src="assets/2-most-commit-language.svg" />
+  <img width="24.3%" src="assets/3-stats.svg" />
 </p>
