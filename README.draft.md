@@ -16,6 +16,7 @@
 [<img alt="Ubuntu" width="5%" src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" />](https://www.google.com/search?&q=Ubuntu)
 [<img alt="Yarn" width="5%" src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" />](https://www.google.com/search?&q=Yarn)
 [<img alt="Vim" width="5%" src="https://devicon.dev/devicon.git/icons/vim/vim-plain.svg" />](https://www.google.com/search?&q=Vim)
+[<img alt="Bash" width="5%" src="https://raw.githubusercontent.com/odb/official-bash-logo/61eff022f2dad3c7468f5deb4f06652d15f2c143/assets/Logos/Icons/SVG/128x128.svg" />](https://www.google.com/search?&q=Bash)
 
 ## Games / ゲーム
 
