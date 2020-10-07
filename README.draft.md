@@ -35,6 +35,8 @@
 
 ## Stats / 統計
 
-![profile-details](assets/0-profile-details.svg)
-![repo-languages](assets/1-repos-per-language.svg)
-![misc-stats](assets/3-stats.svg)
+<img width="100%" src="assets/0-profile-details.svg" />
+<p align="center">
+  <img width="35%" src="assets/1-repos-per-language.svg" />
+  <img width="25%" src="assets/3-stats.svg" />
+</p>
