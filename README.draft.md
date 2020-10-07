@@ -1,4 +1,4 @@
-# Matt Eden
+# Matt Eden / エデン・マット
 *Software Developer, Computer Engineer and Linux Enthusiast*
 
 [<img alt="C" width="5%" src="https://devicon.dev/devicon.git/icons/c/c-original.svg" />](https://www.google.com/search?&q=C)
@@ -17,7 +17,7 @@
 [<img alt="Yarn" width="5%" src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" />](https://www.google.com/search?&q=Yarn)
 [<img alt="Vim" width="5%" src="https://devicon.dev/devicon.git/icons/vim/vim-plain.svg" />](https://www.google.com/search?&q=Vim)
 
-## Games
+## Games / ゲーム
 
 <a href="https://github.com/Matteas-Eden/roll-for-reaction">
   <img width="100%" src="assets/RollForReactionTitle.png" />
