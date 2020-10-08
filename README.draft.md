@@ -1,3 +1,5 @@
+<img width="100%" src="assets/anime-typing.gif" />
+
 # <img width="100%" src="assets/name-heading.png"/>
 *Software Developer, Computer Engineer and Linux Enthusiast*
 
