@@ -1,4 +1,6 @@
-# Matt Eden / エデン・マット
+<img width="100%" src="assets/anime-typing.gif" />
+
+# <img width="100%" src="assets/name-heading.png"/>
 *Software Developer, Computer Engineer and Linux Enthusiast*
 
 [<img alt="C" width="5%" src="https://devicon.dev/devicon.git/icons/c/c-original.svg" />](https://www.google.com/search?&q=C)
@@ -18,7 +20,7 @@
 [<img alt="Vim" width="5%" src="https://devicon.dev/devicon.git/icons/vim/vim-plain.svg" />](https://www.google.com/search?&q=Vim)
 [<img alt="Bash" width="5%" src="https://raw.githubusercontent.com/odb/official-bash-logo/61eff022f2dad3c7468f5deb4f06652d15f2c143/assets/Logos/Icons/SVG/128x128.svg" />](https://www.google.com/search?&q=Bash)
 
-## Games / ゲーム
+## <img width="40%" src="assets/games-heading.png"/>
 
 <a href="https://github.com/Matteas-Eden/roll-for-reaction">
   <img width="100%" src="assets/RollForReactionTitle.png" />
@@ -33,7 +35,8 @@
   </a>
 </p>
 
-## Stats / 統計
+## <img width="35%" src="assets/stats-heading.png"/>
+
 
 <img width="100%" src="assets/0-profile-details.svg" />
 <p align="center">
