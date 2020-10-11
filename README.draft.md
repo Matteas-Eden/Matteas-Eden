@@ -37,7 +37,7 @@
 ## <img width="35%" src="assets/stats-heading.png"/>
 
 
-<img width="100%" src="profile-summary-card-output/github/profile-details.svg" />
+<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
 <p align="center">
   <img width="36%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
   <img width="36%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
