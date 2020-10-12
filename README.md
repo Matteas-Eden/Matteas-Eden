@@ -1,6 +1,5 @@
-<img width="100%" src="assets/anime-typing.gif" />
+<img width="100%" src="assets/name-typing.gif" />
 
-# <img width="100%" src="assets/name-heading.png"/>
 *Software Developer, Computer Engineer and Linux Enthusiast*
 
 [<img alt="C" width="5%" src="https://devicon.dev/devicon.git/icons/c/c-original.svg" />](https://www.google.com/search?&q=C)
