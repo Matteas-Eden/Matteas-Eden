@@ -1,4 +1,4 @@
-<img width="100%" src="assets/bigger-typing.gif" />
+<img width="100%" src="assets/name-typing.gif" />
 
 *Software Developer, Computer Engineer and Linux Enthusiast*
 
