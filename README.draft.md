@@ -19,6 +19,12 @@
 [<img alt="Vim" width="5%" src="https://devicon.dev/devicon.git/icons/vim/vim-plain.svg" />](https://www.google.com/search?&q=Vim)
 [<img alt="Bash" width="5%" src="https://raw.githubusercontent.com/odb/official-bash-logo/61eff022f2dad3c7468f5deb4f06652d15f2c143/assets/Logos/Icons/SVG/128x128.svg" />](https://www.google.com/search?&q=Bash)
 
+## <img width="55%" src="assets/about-me.png"/>
+
+I'm Matt 'Matteas' Eden, a New Zealand based computer enthusiast currently starting
+my career in software engineering and development. My interests include web development, graphics cards and everything in between. When not at my computer, I can be found at the dojo (道場), training in Goju-Ryu Karate (剛柔流空手道).
+Currently a green belt (5th Kyu), but I'll get to black belt someday!
+
 ## <img width="40%" src="assets/games-heading.png"/>
 
 <a href="https://github.com/Matteas-Eden/bakugan-rerolled">
