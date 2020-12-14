@@ -27,10 +27,6 @@ Currently a green belt (5th Kyu), but I'll get to black belt someday!
 
 ## <img width="40%" src="assets/games-heading.png"/>
 
-<a href="https://github.com/Matteas-Eden/bakugan-rerolled">
-  <img width="100%" src="assets/BakuganRerolledTitle.png" />
-</a>
-
 <a href="https://github.com/Matteas-Eden/roll-for-reaction">
   <img width="100%" src="assets/RollForReactionTitle.png" />
 </a>
