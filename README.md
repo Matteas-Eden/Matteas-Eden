@@ -36,9 +36,21 @@
 
 ## <img width="35%" src="assets/stats-heading.png"/>
 
-<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/nord_dark/0-profile-details.svg">
+  <img width="100%" alt="Profile details" src="profile-summary-card-output/github/0-profile-details.svg">
+</picture>
 <p align="center">
-  <img width="36%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
-  <img width="36%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
-  <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/nord_dark/1-repos-per-language.svg">
+    <img width="36%" alt="Languages with most repos" src="profile-summary-card-output/github/1-repos-per-language.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/nord_dark/2-most-commit-language.svg">
+    <img width="36%" alt="Languages with most commits" src="profile-summary-card-output/github/2-most-commit-language.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/nord_dark/3-stats.svg">
+    <img width="24.3%" alt="Other statistics" src="profile-summary-card-output/github/3-stats.svg">
+  </picture>
 </p>
