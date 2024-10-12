@@ -3,6 +3,8 @@
   <h1>Matt Eden</h1>
 </div>
 
+🇯🇵 [日本語版](https://matteden.nz) 🇯🇵
+
 <!-- Penna for the section headings -->
 <!-- Not sure about the Japanese - is that stil important to include? -->
 
@@ -23,7 +25,7 @@ More text here
 
 <img src="https://github.com/user-attachments/assets/1f5d7f7e-ad6e-4936-a292-18fa36f18f5f" align="right" height="100" />
 
-### Cool Project #1 - A really cool project
+### Cool Project #1 - A really cool project [2024]
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="24" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="24" />
 
