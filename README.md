@@ -35,7 +35,8 @@ More text here
   </picture>
 </h2>
 
-<img align="left" width="235" height="185" src="https://github.com/user-attachments/assets/1f5d7f7e-ad6e-4936-a292-18fa36f18f5f" />
+<!-- Extra 10px of height to account for margins from subsequent <hr> -->
+<img align="left" height="185" width="235" src="https://github.com/user-attachments/assets/1f5d7f7e-ad6e-4936-a292-18fa36f18f5f" />
 
 ### Desktop Linux Config - My Dotfiles [2024]
 
@@ -47,7 +48,7 @@ Check out the full setup at [dotfiles](https://github.com/Matteas-Eden/dotfiles)
 
 ---
 
-<img align="left" height="175" src="assets/images/MattEdenNZ.png" />
+<img align="left" height="175" width="235" src="assets/images/MattEdenNZ.png" />
 
 ### matteden.nz - My Website [2022]
 
@@ -59,7 +60,7 @@ Check it out at [matteden.nz](https://matteden.nz).
 
 ---
 
-<img align="left" width="175" src="assets/images/RollForReactionTitle.png" />
+<img align="left" height="175" width="235" src="https://github.com/user-attachments/assets/3660e16b-b421-453f-a6e1-f769329e44b7" />
 
 ### Roll for Reaction - Action Adventure RPG [2020]
 
@@ -72,7 +73,7 @@ Hosted online, you can [play directly in your browser](https://matteas.nz/roll-f
 
 ---
 
-<img align="left" height="175" src="assets/images/EnergizeScreen.png"  />
+<img align="left" height="175" width="235" src="assets/images/EnergizeScreen.png"  />
 
 ### Energize - Action Adventure Side-Scroller [2019]
 
@@ -84,7 +85,8 @@ Check it out at [Energize](https://github.com/Matteas-Eden/Energize).
 
 ---
 
-<img align="left" width="175" src="assets/images/OuterstellarTitle.png" />
+<!-- <img align="left" width="175" src="https://github.com/user-attachments/assets/134a9c01-e2c2-4b82-b9fd-2b4afc844aa7" /> -->
+<img align="left" height="175" width="235" src="https://github.com/user-attachments/assets/a5b919ae-c397-4642-afb5-4a2529ca3bd5" />
 
 ### Outerstellar - Top-down Arcade Shooter [2016]
 
