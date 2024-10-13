@@ -66,4 +66,6 @@ Look at the [code](https://github.com/Matteas-Eden/Matteas-Eden)
   </picture>
 </h2>
 
-Reach out on LinkedIn.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="16" /> [Reach out to me on LinkedIn](https://www.linkedin.com/in/matteas-eden/)
+
+✉️ [Contact me via my website](matteden.nz/contact)
