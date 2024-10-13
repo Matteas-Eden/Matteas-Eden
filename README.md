@@ -60,7 +60,10 @@ Check it out at [matteden.nz](https://matteden.nz).
 
 ---
 
-<img align="left" height="175" width="235" src="https://github.com/user-attachments/assets/3660e16b-b421-453f-a6e1-f769329e44b7" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/images/RollForReactionTitleWhite.png">
+  <img align="left" height="175" width="235" src="assets/images/RollForReactionTitle.png" />
+</picture>
 
 ### Roll for Reaction - Action Adventure RPG [2020]
 
@@ -85,12 +88,11 @@ Check it out at [Energize](https://github.com/Matteas-Eden/Energize).
 
 ---
 
-<!-- <img align="left" width="175" src="https://github.com/user-attachments/assets/134a9c01-e2c2-4b82-b9fd-2b4afc844aa7" /> -->
-<img align="left" height="175" width="235" src="https://github.com/user-attachments/assets/a5b919ae-c397-4642-afb5-4a2529ca3bd5" />
+<img align="left" height="175" width="235" src="assets/images/Outerstellar.png" />
 
 ### Outerstellar - Top-down Arcade Shooter [2016]
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.highgroundgaming.com%2Fwp-content%2Fuploads%2F2019%2F12%2FGameMaker-Studio-Logo1.jpg&f=1&nofb=1&ipt=639a71282fc0c3e6adff7e16e200978a14ffa24dce572a2c8ea9fcd9fa9c102e&ipo=images" height="30" alt="GameMaker Studio" />
+<img src="assets/images/GameMakerStudioLogo.png" height="30" alt="GameMaker Studio" />
 
 The game I made in my first ever hackathon. Developed over 5 days and won 2nd place.
 
