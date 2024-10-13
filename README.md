@@ -17,7 +17,7 @@
   </picture>
 </h2>
 
-<img src="https://github.com/user-attachments/assets/1f5d7f7e-ad6e-4936-a292-18fa36f18f5f" align="right" height="200" />
+<img src="assets/anime-typing.gif" align="right" height="200" />
 
 I'm cool some of the time all of the time.
 
