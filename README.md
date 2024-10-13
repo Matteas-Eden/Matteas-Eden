@@ -36,7 +36,7 @@ More text here
 </h2>
 
 <!-- Extra 10px of height to account for margins from subsequent <hr> -->
-<img align="left" height="185" width="235" src="https://github.com/user-attachments/assets/1f5d7f7e-ad6e-4936-a292-18fa36f18f5f" />
+<img align="left" height="185" width="235" src="assets/images/DesktopSnap.png" />
 
 ### Desktop Linux Config - My Dotfiles [2024]
 
