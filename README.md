@@ -6,7 +6,7 @@
 </p>
 
 <!-- TODO: Update this linke -->
-🇯🇵 [日本語版](https://matteden.nz) 🇯🇵
+<!-- 🇯🇵 [日本語版](https://matteden.nz) 🇯🇵 -->
 <!-- Not sure about the Japanese - is that stil important to include? -->
 
 <!-- ## About Me / 私について -->
