@@ -96,7 +96,7 @@ Check it out at [Energize](https://github.com/Matteas-Eden/Energize).
 
 The game I made in my first ever hackathon. Developed over 5 days and won 2nd place.
 
-Although the source code was lost to time, it can be still played using the [installer](https://github.com/Matteas-Eden/outerstellar/releases). 
+Although the source code was lost to time, the [installer survived](https://github.com/Matteas-Eden/outerstellar/releases). 
 
 <!-- ## Connect / 繋ぎましょう -->
 <h2>
