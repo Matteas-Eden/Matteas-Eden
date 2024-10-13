@@ -1,9 +1,15 @@
 <!-- Bavro for the header -->
-<div align="center">
+<!-- <div align="center">
   <h1>Matt Eden</h1>
-</div>
+</div> -->
+
+<p align="center">
+  <img src="profile-header.dark.svg" alt="Matt Eden, Software Team Lead, Martial Artist, Improviser" />
+</p>
 
 🇯🇵 [日本語版](https://matteden.nz) 🇯🇵
+
+
 
 <!-- Penna for the section headings -->
 <!-- Not sure about the Japanese - is that stil important to include? -->

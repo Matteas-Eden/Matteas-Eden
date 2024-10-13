@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450px" height="110px" text-anchor="middle">
+  <defs>
+    <style>
+      @font-face {
+        font-family: "Penna";
+        src: url('penna.otf');
+        font-weight: normal;
+        font-style: normal;
+      }
+      @font-face {
+        font-family: "Penna";
+        src: url('penna.otf');
+        font-weight: bold;
+        font-style: normal;
+      }
+      .heading {
+        font-family: "Penna";
+        font-size: 36px;
+        font-weight: bold;
+        fill: #C6C3C3;
+        letter-spacing: 4px;
+        text-transform: uppercase;
+      }
+      .sub-heading {
+        font-family: "Penna";
+        font-size: 20px;
+        font-weight: normal;
+        fill: #8F8A8A;
+        letter-spacing: 0.5px;
+      }
+    </style>
+  </defs>
+
+  <text class="heading" x="50%" y="40">
+    Matt Eden
+  </text>
+
+  <text class="sub-heading" x="50%" y="75">
+    Software Team Lead | Martial Artist | Improviser
+  </text>
+</svg>
