@@ -125,4 +125,4 @@ Although the source code was lost to time, it can be still played using the [ins
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="16" /> [Reach out to me on LinkedIn](https://www.linkedin.com/in/matteas-eden/)
 
-✉️ [Contact me via my website](matteden.nz/contact)
+✉️ [Contact me via my website](https://matteden.nz/contact)
