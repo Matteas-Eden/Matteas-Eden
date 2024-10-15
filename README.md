@@ -18,14 +18,14 @@
 
 <img src="assets/anime-typing.gif" align="right" height="225" />
 
-I'm cool some of the time all of the time.
+Hey, I'm Matt. Welcome to my profile!
 
-Here's some stuff about me:
-- I'm a person
-- I have an internet connection
-- I have a github account
+Lately, I've been working on:
+- Prioritisation through time management  🕓
+- Communicating to reduce friction 💬
+- Customising Linux 🖥️
 
-More text here
+Take a look around, and feel free to reach out!
 
 <!-- ## Projects / プロジェクト -->
 <h2>
