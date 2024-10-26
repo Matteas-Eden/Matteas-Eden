@@ -35,8 +35,20 @@ Take a look around, and feel free to reach out!
   </picture>
 </h2>
 
-<!-- Extra 10px of height to account for margins from subsequent <hr> -->
-<img align="left" height="185" width="235" src="assets/images/DesktopSnap.png" />
+<img align="left" height="185" width="235" src="assets/images/ReducingFrictionIntentionalCommunication.png" />
+
+### Reducing Friction with Intentional Communication - JuniorDev Meetup Talk [2024]
+
+<img height="24" src="https://sli.dev/logo-title.png" alt="Slidev"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="24" alt="Vue JS" /> <img src="https://secure.meetupstatic.com/next/images/general/favicon.ico" height="24" alt="Meetup" />
+          
+
+A talk about how to improve our communication to make our everyday lives easier. My first talk at JuniorDev.
+
+Check out the slides for the talk at [rfic.matteden.nz](https://rfic.matteden.nz).
+
+---
+
+<img align="left" height="175" width="235" src="assets/images/DesktopSnap.png" />
 
 ### Desktop Linux Config - My Dotfiles [2024]
 
