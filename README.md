@@ -4,9 +4,6 @@
     <img src="assets/headings/profile-header.light.svg" alt="Matt Eden, Software Team Lead, Martial Artist, Improviser" />
   </picture>
 </p>
-<!-- TODO: Update this linke -->
-<!-- 🇯🇵 [日本語版](https://matteden.nz) 🇯🇵 -->
-<!-- Not sure about the Japanese - is that stil important to include? -->
 
 <!-- ## About Me / 私について -->
 <h2>
@@ -21,7 +18,8 @@
 Hey, I'm Matt. Welcome to my profile!
 
 Lately, I've been working on:
-- Prioritisation through time management  🕓
+
+- Prioritisation through time management 🕓
 - Communicating to reduce friction 💬
 - Customising Linux 🖥️
 
@@ -35,12 +33,23 @@ Take a look around, and feel free to reach out!
   </picture>
 </h2>
 
+<img align="left" height="185" width="235" src="assets/images/DivinationSnippet.png" />
+
+### Divination [2025]
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="24" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="24" alt="dotnet" /> <img src="https://magic.wizards.com/assets/favicon.ico" height="24" alt="MTG" />
+
+A website to easily search the comprehensive rules for Magic: The Gathering. Magic is hard, and this makes it easier.
+
+Start searching the rules today at [divination.nz](https://divination.nz).
+
+---
+
 <img align="left" height="185" width="235" src="assets/images/ReducingFrictionIntentionalCommunication.png" />
 
 ### Reducing Friction with Intentional Communication - JuniorDev Meetup Talk [2024]
 
 <img height="24" src="https://sli.dev/logo-title.png" alt="Slidev"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="24" alt="Vue JS" /> <img src="https://secure.meetupstatic.com/next/images/general/favicon.ico" height="24" alt="Meetup" />
-          
 
 A talk about how to improve our communication to make our everyday lives easier. My first talk at JuniorDev.
 
@@ -48,7 +57,7 @@ Check out the slides for the talk at [rfic.matteden.nz](https://rfic.matteden.nz
 
 ---
 
-<img align="left" height="175" width="235" src="assets/images/DesktopSnap.png" />
+<!-- <img align="left" height="175" width="235" src="assets/images/DesktopSnap.png" />
 
 ### Desktop Linux Config - My Dotfiles [2024]
 
@@ -58,7 +67,7 @@ My Linux desktop, running on EndeavourOS with Budgie desktop. Themed with Catppu
 
 Check out the full setup at [dotfiles](https://github.com/Matteas-Eden/dotfiles).
 
----
+--- -->
 
 <img align="left" height="175" width="235" src="assets/images/MattEdenNZ.png" />
 
@@ -79,7 +88,7 @@ Check it out at [matteden.nz](https://matteden.nz).
 
 ### Roll for Reaction - Action Adventure RPG [2020]
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="24" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="24" alt="React" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="24" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="24" alt="React" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="24" alt="Redux" />
 
 A role-playing game I worked on during my degree. Heavily inspired by Dungeons and Dragons.
@@ -108,7 +117,7 @@ Check it out at [Energize](https://github.com/Matteas-Eden/Energize).
 
 The game I made in my first ever hackathon. Developed over 5 days and won 2nd place.
 
-Although the source code was lost to time, the [installer survived](https://github.com/Matteas-Eden/outerstellar/releases). 
+Although the source code was lost to time, the [installer survived](https://github.com/Matteas-Eden/outerstellar/releases).
 
 <!-- ## Connect / 繋ぎましょう -->
 <h2>
