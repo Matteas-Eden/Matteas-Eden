@@ -19,9 +19,9 @@ Hey, I'm Matt. Welcome to my profile!
 
 Lately, I've been working on:
 
-- Prioritisation through time management 🕓
-- Communicating to reduce friction 💬
-- Customising Linux 🖥️
+- Streamlining project delivery 📈
+- Getting into better shape 🏃
+- Improving my Japanese 🇯🇵
 
 Take a look around, and feel free to reach out!
 
