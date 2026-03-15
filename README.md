@@ -119,6 +119,8 @@ The game I made in my first ever hackathon. Developed over 5 days and won 2nd pl
 
 Although the source code was lost to time, the [installer survived](https://github.com/Matteas-Eden/outerstellar/releases).
 
+<br />
+
 <!-- ## Connect / 繋ぎましょう -->
 <h2>
   <picture>
