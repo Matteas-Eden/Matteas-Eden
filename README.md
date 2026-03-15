@@ -39,7 +39,7 @@ Take a look around, and feel free to reach out!
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="24" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="24" alt="dotnet" /> <img src="https://magic.wizards.com/assets/favicon.ico" height="24" alt="MTG" />
 
-A website to easily search the comprehensive rules for Magic: The Gathering. Magic is hard, and this makes it easier.
+A website to search the comprehensive rules for Magic: The Gathering. Makes Magic easier.
 
 Start searching the rules today at [divination.nz](https://divination.nz).
 
@@ -47,11 +47,11 @@ Start searching the rules today at [divination.nz](https://divination.nz).
 
 <img align="left" height="185" width="235" src="assets/images/ReducingFrictionIntentionalCommunication.png" />
 
-### Reducing Friction with Intentional Communication - JuniorDev Meetup Talk [2024]
+### Reducing Friction with Intentional Communication - Meetup Talk [2024]
 
 <img height="24" src="https://sli.dev/logo-title.png" alt="Slidev"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="24" alt="Vue JS" /> <img src="https://secure.meetupstatic.com/next/images/general/favicon.ico" height="24" alt="Meetup" />
 
-A talk about how to improve our communication to make our everyday lives easier. My first talk at JuniorDev.
+A talk about improving our communication to make the everyday easier. My first meetup talk.
 
 Check out the slides for the talk at [rfic.matteden.nz](https://rfic.matteden.nz).
 
